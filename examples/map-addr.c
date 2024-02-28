@@ -30,6 +30,7 @@
 #include <errno.h>
 #include <sys/mman.h>
 #include <stdio.h>
+#include <glib.h>
 
 #define PAGE_SIZE 1 << 12
 

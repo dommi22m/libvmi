@@ -32,6 +32,7 @@
 #include <stdio.h>
 #include <inttypes.h>
 #include <getopt.h>
+#include <glib.h>
 
 #include <libvmi/libvmi.h>
 #define LIBVMI_EXTRA_JSON

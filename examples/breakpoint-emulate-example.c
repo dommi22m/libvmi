@@ -47,6 +47,7 @@
 #include <stdio.h>
 #include <inttypes.h>
 #include <signal.h>
+#include <glib.h>
 
 #include <libvmi/libvmi.h>
 #include <libvmi/events.h>

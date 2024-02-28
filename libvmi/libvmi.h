@@ -50,6 +50,7 @@ extern "C" {
 #include <errno.h>
 #include <string.h>
 #include <stdbool.h>
+#include <glib.h>
 
 #define VMI_INIT_DOMAINNAME (1u << 0) /**< initialize using domain name */
 

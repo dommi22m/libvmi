@@ -29,6 +29,7 @@
 #include <errno.h>
 #include <sys/mman.h>
 #include <stdio.h>
+#include <glib.h>
 
 #include <libvmi/libvmi.h>
 
